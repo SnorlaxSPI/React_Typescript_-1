@@ -1,10 +1,11 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
-  font: 16px "Helvetia Neue", Arial, sans-serif;
-  color: #121214;
+  font: Arial, Helvetia, sans-serif;
+  background: #1f1e1e;
+  color: #41da74;
+  background: #5358a3;
+  color: #c96561;
+
+  h1 {
+    font-size: 40px;
+  }
 }
