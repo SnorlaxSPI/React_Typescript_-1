@@ -10,8 +10,9 @@ section.repository-list {
   }
 
     li {
+      margin-top: 25px;
       & + li {
-      margin-top: 20px;
+      margin-bottom: 25px;
     }
 
     p {
@@ -22,7 +23,7 @@ section.repository-list {
 
     a {
       display: inline-block;
-      //margin-top: 16px;
+      margin-top: 10px;
       text-decoration: none;
       color: #8257e6;
     }
