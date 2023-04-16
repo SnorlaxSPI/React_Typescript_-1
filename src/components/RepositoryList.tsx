@@ -5,7 +5,7 @@ import '../styles/repositories.scss';
 
 interface Repository {
   name: string;
-  description: string;
+  language: string;
   html_url: string;
 }
 
